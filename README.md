@@ -1,4 +1,4 @@
- <!-- Header Banner -->
+<!-- Header Banner -->
 <div align="center">
 
 # Hi there! I'm Sai Manoj 👋
@@ -20,13 +20,6 @@
 <img src="https://readme-components.vercel.app/api?component=logo&logo=python&fill=black&description=&descriptionSize=0" height="28"/>
 <img src="https://readme-components.vercel.app/api?component=logo&logo=c&fill=black&description=&descriptionSize=0" height="28"/>
 <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=black&description=&descriptionSize=0" height="28"/>
-
-<!-- GitHub Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-</picture>
 
 </div>
 
