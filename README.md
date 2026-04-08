@@ -15,11 +15,10 @@
 
 <br/>
 
-<!-- Scrolling Skills Marquee -->
-<img src="https://readme-components.vercel.app/api?component=logo&logo=java&fill=black&description=&descriptionSize=0" height="28"/>
-<img src="https://readme-components.vercel.app/api?component=logo&logo=python&fill=black&description=&descriptionSize=0" height="28"/>
-<img src="https://readme-components.vercel.app/api?component=logo&logo=c&fill=black&description=&descriptionSize=0" height="28"/>
-<img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=black&description=&descriptionSize=0" height="28"/>
+<!-- Simple Skills Icons -->
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,c,python,javascript,html,css,mysql&theme=dark&perline=7" height="50"/>
+</div>
 
 </div>
 
@@ -30,32 +29,11 @@
 ```python
 class SaiManoj:
     name       = "Sai Manoj"
-    username   = "krishna-169"
     location   = "Gudivāda, Andhra Pradesh, India"
-    education  = "ECET Prep | Programming in Java (NPTEL/SWAYAM)"
-    skills     = ["Java", "C", "Python", "JavaScript", "AI/ML Basics"]
-    interests  = ["DSA", "AI Applications", "Trading", "GST/Tax Rules"]
-    open_to    = ["Internships", "Coding Collaborations", "ECET Study Groups"]
-    fun_fact   = "Debugging Java code while prepping for ECET 📚💻"
+    focus      = "ECET Prep + Java Programming"
+    skills     = "Java, C, Python, JavaScript"
+    interests  = "DSA, AI, Trading"
 ```
-
----
-
-## 🛠️ Tech Skills
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,c,python,javascript,html,css,mysql&theme=dark&perline=7" />
-</div>
-
-<br/>
-
-| Skill | Level | Progress |
-|-------|-------|----------|
-| **Java** | 🔥 92% | `█████████░` |
-| **C** | ⚡ 88% | `████████░░` |
-| **Python** | 🐍 82% | `███████░░░` |
-| **JavaScript** | ⚡ 78% | `███████░░░` |
-| **DBMS** | 🗄️ 72% | `██████░░░░` |
 
 ---
 
@@ -63,44 +41,18 @@ class SaiManoj:
 
 <div align="center">
 
-![Sai Manoj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishna-169&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Sai Manoj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishna-169&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-169&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=krishna-169&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🔭 Interests
+## 🎓 Currently Learning
 
-| Area | Description |
-|---|---|
-| ☕ Java & DSA | NPTEL course by Prof. Debasis Samanta, ECET prep, problem-solving |
-| 🤖 AI/ML | Real-world applications, content generation, customer analytics |
-| 📈 Trading & Finance | GST rules, business compliance, market strategies |
-| 🧮 Exams & Coding | Daily mock tests, Java debugging, Swayam/NPTEL courses |
-
----
-
-## 🏅 Certifications & Courses
-
-| Certificate | Platform | Year |
-|---|---|---|
-| 🎓 Programming in Java | NPTEL/SWAYAM (IIT Kharagpur) | 2026 |
-| 📚 ECET Exam Prep | Mock Tests & Practice | Ongoing |
-| 🤖 AI for Content & Analytics | Self-Study | 2025 |
-| 💼 GST/Tax Basics | Business Compliance | 2025 |
-
----
-
-## 🎓 Education & Goals
-
-🏫 **ECET Preparation**  
-Engineering Common Entrance Test · *2026 Target*
-
-🏫 **Programming Focus**  
-NPTEL 'Programming in Java' by Prof. Debasis Samanta · *Active*
+- ☕ **Programming in Java** (NPTEL/SWAYAM)
+- 📚 **ECET Exam Prep**
+- 🤖 **AI Applications**
 
 ---
 
@@ -108,8 +60,6 @@ NPTEL 'Programming in Java' by Prof. Debasis Samanta · *Active*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=krishna-169&color=1D9E75&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
-
-*⭐ From [krishna-169](https://github.com/krishna-169) — Keep Coding, Keep Learning!*
+*⭐ From [krishna-169](https://github.com/krishna-169)*
 
 </div>
